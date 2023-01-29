@@ -3,7 +3,7 @@ You start the Game as a "@" in a defined position in one of the 3 maps of the ga
 You have different stats : level,health,attack,defense and experience
 You can encounter monsters(health,attack,defense) on the map that can move randomly and chase you
 if you are close enough.
-You cono combat monsters.
+You can combat monsters.
 If you die the game ends. 
 In the first level you can battle 3 goblins and a Bandit that is blocked by a barrier,you can pick a key to open it.
 Second and Third stage,it's another map with more monsters like an orc or a Dragon.
