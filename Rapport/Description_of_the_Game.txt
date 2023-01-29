@@ -1,7 +1,7 @@
 Game:
 You start the Game as a "@" in a defined position in one of the 3 maps of the game.
 You have different stats : level,health,attack,defense and experience
-You can encounter monsters(health,attack,defense) on the map that can move randomly and chase you
+You can encounter monsters(health,attack,defense) on the map that can move "randomly" and chase you
 if you are close enough.
 You can combat monsters.
 If you die the game ends. 
